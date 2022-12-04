@@ -20,7 +20,7 @@ def consultarProdutos():
             print ('Bem-vindo a consulta de produtos')
             opConsultar = int(input('Informe a opção desejada:\n1- Consultar todos os produtos\n2- Consultar produto por código:\n3- Consultar produto por fabricante:\n4- Retornar\n>>'))
             if opConsultar == 1:
-                print('Você selecionou a opção -consultar todos os produtos-')
+                print('Você selecionou a opção - consultar todos os produtos-')
                 for produto in listaProdutos: #Selecionar cada dicionario da minha lista (Cada produto da lista de produtos)
                     for key, value in produto.items(): #Selecionar cada conjunto chave/valor do dicionario
                         print('{} : {}'.format(key,value))
