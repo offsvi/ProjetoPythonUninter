@@ -1,5 +1,5 @@
 acumulador = 0 #Importante estar em 0 para somar um valor a mais que for solicitado
-print('----------------------Seja bem vindo à Pizzaria Vitor Italian---------------------')
+print('----------------------Seja bem vindo à Pizzaria Italian Pizzas---------------------')
 print('****************************| Sabores e valores |*****************************')
 print('*   Código   |      Sabores       |   Tamanho M  |  tamanho G 30%(mais caro) *')
 print('*     10     |     Toscana        |    R$ 23.00  |   R$ 29.90                *')
