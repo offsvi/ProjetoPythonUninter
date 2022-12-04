@@ -1,5 +1,5 @@
 #Introdução
-print('**********| Comércio em Atacado Vitor Oliver |***********')
+print('**********| Comércio em Atacado Vitor&Varejo |***********')
 print('<< Seja bem vindo ao centro de atacado do Brasil >>')
 print('')
 
