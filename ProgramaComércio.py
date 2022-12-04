@@ -1,6 +1,6 @@
 #Introdução
 print('**********| Comércio em Atacado Vitor Oliver |***********')
-print('<< Seja bem vindo ao maior centro de atacado do Brasil >>')
+print('<< Seja bem vindo ao centro de atacado do Brasil >>')
 print('')
 
 #Escolha do cliente
