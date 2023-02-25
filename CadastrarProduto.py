@@ -47,7 +47,7 @@ def consultarProdutos():
             print('Pare de digitar que não são inteiros!')
 #---------------Fim Consulta Produto--------------
 
-#---------------Começo Remover Produto--------------
+#---------------Começo Remover Produto------------
 removerProduto():
 print('Bem vindo a remover produtos')
 entrada = int(input('Inform o código desejado: '))
