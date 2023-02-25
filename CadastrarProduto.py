@@ -13,7 +13,7 @@ def CadastrarProdutos(codigo):
     listaProdutos.append(dicionarioProduto.copy()) #Adciona uma cópia do dicionário
 #------------ Fim cadastrarProduto--------------------
 
-#------------ Começo consultarProdutos ----------------
+#------------ Começo consultarProdutos ---------------
 def consultarProdutos():
     while True:
         try:
