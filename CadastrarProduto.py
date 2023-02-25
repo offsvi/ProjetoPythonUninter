@@ -48,12 +48,12 @@ def consultarProdutos():
 #---------------Fim Consulta Produto--------------
 
 #---------------Começo Remover Produto------------
-removerProduto():
+removerProduto()
 print('Bem vindo a remover produtos')
 entrada = int(input('Inform o código desejado: '))
 for produto in listaProdutos:
     if (produto['codigo'] == entrada):
-        listaProdutos.remove(produto)
+        listaProdutos.remover(produto)
 #-------------Fim Lista de produtos---------------
 
 #------------- Começo da Main--------------
@@ -69,7 +69,7 @@ while True:
             consultarProdutos()
         elif opcao == 3:
             registroProduto = registroProduto + 3
-            removerProduto()
+            registroProduto()
         elif opcao == 4:
             registroProduto = registroProduto + 4
             print('Programa encerrado')
