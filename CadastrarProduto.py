@@ -54,7 +54,7 @@ entrada = int(input('Inform o código desejado: '))
 for produto in listaProdutos:
     if (produto['codigo'] == entrada):
         listaProdutos.remove(produto)
-#-------------Fim Lista de produtos----------------
+#-------------Fim Lista de produtos---------------
 
 #------------- Começo da Main--------------
 print('Bem vindo ao controle de estoque')
