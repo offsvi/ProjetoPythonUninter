@@ -11,7 +11,7 @@ print('A quantidade do produto informada foi: {} Unidades '.format(qtdProduto))
 total = valorUnidade * qtdProduto
 
 #condições de descontos dos cliente
-if total < 4: #Quantidade menor que 4 não se aplica desconto
+if total < 4: #Quantidade menor que 4 não se aplica desconto-
     valorFinal = total
 #valor com 3% de desconto
 elif 5 <= total < 19:
