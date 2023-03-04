@@ -10,7 +10,7 @@ def CadastrarProdutos(codigo):
                         'nome'        : nome,
                         'fabricante'  : fabricante,
                         'valor'       : valor}
-    listaProdutos.append(dicionarioProduto.copy()) #Adciona uma cópia do dicionário
+    listaProdutos.append(dicionarioProduto.copy()) #Adciona uma cópia do dicionário-
 #------------ Fim cadastrarProduto--------------------
 
 #------------ Começo consultarProdutos ---------------
