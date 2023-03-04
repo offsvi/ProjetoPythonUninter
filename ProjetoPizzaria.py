@@ -12,7 +12,7 @@ while True:
 #Escolha do tamanho da pizza desejado m ou g | ---digitar em minusculo!---
     tam = input('Escolha o tamanho da pizza m/g: ')
     if tam == 'm'or tam =='g':
-        print('Tamanho selecionado')
+        print('Tamanho selecionado') 
     else:#se o tamanho for diferente de m ou g cair nesse else
         print('Tamanho invalido. Informe o tamanho correto!')
         continue
