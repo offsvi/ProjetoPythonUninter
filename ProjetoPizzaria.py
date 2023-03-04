@@ -9,7 +9,7 @@ print('*     40     |     Calabresa      |    R$ 34.00  |   R$ 44.20            
 print('*     50     |     Quatro-queijo  |    R$ 32.00  |   R$ 41.60                *')
 print('***************************************&**************************************')
 while True:
-#Escolha do tamanho da pizza desejado m ou g | ---digitar em minusculo!---
+#Escolha do tamanho da pizza desejado m ou g | --digitar em minusculo!--
     tam = input('Escolha o tamanho da pizza m/g: ')
     if tam == 'm'or tam =='g':
         print('Tamanho selecionado') 
