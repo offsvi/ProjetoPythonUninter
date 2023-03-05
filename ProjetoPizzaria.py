@@ -21,7 +21,7 @@ while True:
 
 #Escolha de tamanho 'm'
     if tam == 'm' and codigo == '10':
-        acumulador = acumulador + 23 #Acumulador guarda o valor final dos das pizzas solicitadas
+        acumulador = acumulador + 23 #Acumulador guarda o valor final dos das pizzas solicitadas e soma com o proximo valor
         print('Você escolhe o sabor toscana')
         print('Pedido realizado com sucesso!')
     elif tam == 'm' and codigo == '20':
